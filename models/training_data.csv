@@ -1,0 +1,456 @@
+S.NO,Question,BloomLevel,Marks
+1,Define analog Modulation and list different types of analog modulations.,K1,2
+2,A Radio transmitter radiates 10 KW and carrier power is 8.5 KW. Calculate modulation index.,K3,2
+3,Define Carrier swing and Frequency deviation.,K1,2
+4,Compare narrow band and wide band FM.,K2,2
+5,What is the threshold effect?,K1,2
+6,Explain the image frequency rejection of a radio receiver.,K2,2
+7,what is the bandwidth requirement of a PCM system?,K1,2
+8,distinguish between PAM and PWM,K4,4
+9,describe the condition of orthogonality of two BFSK systems.,K2,2
+10,compare the average power requirement of QPSK and BPSK,K2,2
+11,how AM is generated using square law modulator? derive relevant expressions.,K6,10
+12,"with necessary circuit diagram and waveforms, explain how DSB-SC wave is generated using  Balance Modulator",K2,2
+13,"with necessary circuit diagram and waveforms, explain how DSB-SC wave is generated using Ring Modulator.",K2,2
+14,discuss the generation of FM wave using direct method.,K6,10
+15,"an FM wave with modulation index β = 1 is transmitted through an ideal band pass filter with mid band frequency fc and bandwidth is 5fm, where fc is the carrier frequency and fm is the frequency of the sinusoidal modulating wave. determine the amplitude spectrum of the filter output.",K5,5
+16,discuss the detection of FM wave using zero crossing detector.,K6,10
+17,explain the concept of pre emphasis and de-emphasis.,K2,2
+18,draw the block diagram of AM transmitter using low level modulation. explain the significance of each block,K6,10
+19,discuss about frequency stability in FM Transmitter,K6,10
+20,list out the advantages and disadvantages of TRF receiver. ,K4,4
+21,explain quantization error and derive an expression for maximum SNR in a PCM system that uses linear quantization. ,K2,2
+22,what is slope overload distortion and granular noise in Delta Modulation? how it is removed in ADM?       ,K4,4
+23,"a voice frequency signal band limited to 3 MHz is transmitted with the use of the DM system. The pulse repetition frequency is 30,000 pulses per second, and the step size is 40mV. determine the maximum possible speech signal amplitude to avoid a slope overload.",K5,5
+24,compare all pulse modulation systems.,K4,4
+25,explain the process of generating ASK signals.,K2,2
+26,describe the process of detecting Coherent BPSK signals.,K3,2
+27,explain how ISI occurs in base-band binary data transmission system.,K2,2
+28,find the Probability of error of Integrate and DUMP circuite,K3,4
+29,explain the importance of petrology in civil engineering,K2,2
+30,present the importance of geology from Civil Engineering point of view.,K2,2
+31,write the form of given minerals: i) Kyanite ii) Asbestos.,K1,2
+32,state and explain Dykes and sills with diagrammatically,K2,2
+33,define mural joints with neat sketches,K1,2
+34,write short note on bearing capacity of soils.,K2,2
+35,what are the main objectives of geological investigations for most engineering projects?,K1,2
+36,explain briefly causes and effects of earthquakes.,K2,2
+37,what do you understand by a dam disaster?,K1,2
+38,briefly explain embankment dams and types.,K2,2
+39,explain the brief study of case histories of failure of some Civil Engineering constructions due to geological drawbacks,K2,2
+40,what do you mean by frost action in weathering? describe the processes of mechanical weathering in a rock.,K2,2
+41,describe the concept of internal structure of the earth.,K3,2
+42,"enumerate with the help of neat sketches, the process of erosion as performed by glaciers and their features.",K2,2
+43,classify various mineral fractures? discuss the different types of fractures associated with minerals.,K4,4
+44,"present briefly concordant bodies, discuss various important concordant forms with neat diagram.",K3,2
+45,"describe the physical properties of following common rock forming minerals: i) Feldsper, ii) Quartz.",K3,2
+46,describe the parts of folds and classify geological structures associating with the rocks such as folds.,K3,2
+47,"briefly present the common types of soils, their origin and occurrence in India.",K2,2
+48,present briefly Geological controls of Ground Water Movement.,K3,2
+49,what is Cone of depression? write short note on hydrological cycle,K5,5
+50,"define resistivity, and explain Special importance of Electrical resistivity methods.",K2,2
+51,describe the principles of geophysical study by Gravity methods and its applications.,K3,2
+52,"demonstrate the causes and effects of landslides, mention measures to be taken to prevent their occurrence at Landslides.",K3,2
+53,"present briefly Richter scale intensity, which Precautions taken for building constructions in seismic areas.",K3,2
+54,summarize the purpose of tunnels and how influence of geology for successful tunneling.,K5,5
+55,classify various types of dams and bearing of Geology of site in their selection,K4,4
+56,explain with examples which factors contributing to the success of a reservoir,K2,2
+57,analyze geological considerations in the selection of a Dam site and Life of Reservoirs,K4,4
+58,sketch a combinational Clipper Circuit,K3,3
+59,define diffusion and transition capacitance of p-n junction diode,K1,2
+60,define transconductance gm and drain resistance of a FET,K1,2
+61,why the input impedance of FET is higher than BJT?,K1,2
+62,what is harmonics distortion in power amplifier?,K1,2
+63,what are the advantages of direct coupled amplifiers,K1,2
+64,what are the advantages and disadvantages of Negative feedback in Amplifier?,K1,2
+65,write the equation for frequency of oscillations in RC phase shift Oscillator,K1,1
+66,define CMRR,K1,2
+67,what are the applications of Op-Amp?,K1,2
+68,obtain the expression for Ripple factor for Full Wave Rectifier,K3,2
+69,explain the need for biasing in electronic circuits. what are the factors affecting the stability factor,K2,2
+70,obtain the DC conditions for voltage divider bias-circuit for a CE-BJT amplifier and give design constraints along with stability of Q-point,K3,2
+71,derive an expression for Voltage gain 𝐴𝑣 of small signal CE BJT amplifier,K3,2
+72,explain the construction and operation of Enhancement type Metal Oxide Semiconductor FET with neat diagram,K2,2
+73,"draw the small signal AC equivalent circuit of a Common Drain FET amplifier. Derive the expression for voltage gain, input impedance and output impedance",K6,10
+74,how MOSFET is used as switch? what are applications of it,K2,2
+75,draw the small-signal high-frequency circuit of a Common Source amplifier and derive the expression for voltage gain.,K6,10
+76,draw the circuit of a Two stage RC-Coupled Amplifier and explain its working along with its advantages.,K6,10
+77,derive the equation for Power Output and conversion efficiency of a Class A series fed Amplifier.,K3,2
+78,derive the expression for voltage gain of a dual input balanced output differential amplifier.,K3,2
+79,discuss the operation of a class B power amplifier and derive its maximum power conversion efficiency,K6,10
+80,briefly explain the four basic feedback topologies with necessary block diagram,K2,2
+81,explain the working of Colpitt’s oscillator and also discuss the drawback of this oscillator,K4,4
+82,"explain the working of a voltage series feedback amplifier with a neat block diagram. obtain the expressions for gain, input resistance and output resistance with feedback",K3,2
+83,with a neat diagram explain the working of a Hartley oscillator,K3,2
+84,how do the open-loop voltage gain and closed-loop voltage gain of an op-amp differ? what is the limiting value of output voltage of Op Amp Circuit? justify,K5,5
+85,draw the circuit diagram of an ideal differentiator using op-amp with corresponding input and output waveforms. why the circuit cannot be recommended for practical use?,K6,10
+86,draw the inverting and non-inverting amplifier circuits of OP-AMP in closed loop configuration. obtain the expressions for the closed loop gain in these circuits.,K6,10
+87,"design a three input summing amplifier using op-amp having resistors with values of 2, 3 and 5 respectively for each input.",K6,10
+88,explain the square law detection of AM signals with neat diagrams,K5,5
+89,explain about COSTAS loop with a neat block diagram for demodulating DSB-SC wave.,K5,5
+90,describe about the methods for generation of SSB-SC signal and explain any one of the method.,K3,2
+91,describe the coherent detection of DSB-SB modulated waves.,K3,2
+92,discuss the process of Detection of FM Waves by Phase locked loop,K6,10
+93,"An angle modulated signal is given by s(t) = 100 cos [2πfct + 4 Sin2000πt]. Where, fc = 10 MHz, Find the peak frequency deviation. Is this an FM wave or PM wave",K3,2
+94,how PLL is used to detect the FM signal?,K3,2
+95,draw the block diagram of superhetrodyne receiver and explain the function of each block,K6,10
+96,how to choose the intermediate frequency in receivers?,K3,2
+97,differentiate between delayed and amplified AGC and explain their action with the help of simple circuits blocks.,K4,4
+98,write in detail about the limiter used in FM receiver,K2,2
+99,explain in detail the Delta modulation transmitter and Receiver.,K5,5
+100,discuss about the causes of Inter Symbol Interference (ISI).,K6,10
+101,discuss in detail the BPSK transmitter and receiver and obtain the minimum double sided Nyquist bandwidth.,K6,10
+102,what are the required conditions for optimum receiver,K3,2
+103,what is ideal voltage source,K1,2
+104,define KVL.,K1,2
+105,what is active power,K1,2
+106,define average value of sinusoidal quantity,K1,2
+107,what is a step up Transformer,K1,2
+108,define regulation of a transformer,K1,2
+109,what type of material is used for brushes of a d.c machine,K1,2
+110,how many windings are present at the time of staring a single phase Induction motor,K2,2
+111,what is the full form of M.C.C.B,K1,2
+112,what is the energy consumed by 1000 watts heater in 3 hours?,K1,2
+113,state and explain Thevenin’s theorem,K2,2
+114,derive an expression for transient current in R-L series circuit excited by a d.c source,K3,2
+115,"explain the V-I relation of R, L and C elements",K2,2
+116,derive an expression for resonance frequency of R-L-C series circuit connected to an alternating supply of variable frequency.,K3,2
+117,"A coil has an inductance of 40 mH and negligible resistance. calculate its inductive reactance and the resulting current if connected to a 240 V, 50 Hz supply",K3,2
+118,derive an e.m.f equation of a single phase transformer,K3,2
+119,"A 4500 V/225 V, 50 Hz single-phase transformer is to have an approximate e.m.f. per turn of 15 V and operate with a maximum flux of 1.4 T. calculate (i) the number of primary and secondary turns and (ii) the cross-sectional area of the core",K3,2
+120,what is an Auto transformer?give its advantages and state its applications.,K2,2
+121,what are the advantages of 3-phase transformers? draw various schemes of 3-phase transformer connections.,K2,2
+122,explain the constructional details of a d.c machine. explain the working of a d.c generator,K2,2
+123,draw the various characteristics of a d.c shunt motor,K6,10
+124,explain the working of a 3-phase Induction motor with a neat sketch,K5,5
+125,"The stator of a 3-phase, 4-pole induction motor is connected to a 50 Hz supply. The rotor runs at 1455 rev/min at full load. determine (i) the synchronous speed and (ii) the slip at full load.",K3,2
+126,explain the working of (i) SFU (Switch Fuse Unit) (ii) ELCB,K2,2
+127,what are the advantages of improving the power factor of a system,K4,4
+128,what are the differences between primary cells and secondary batteries,K4,4
+129,explain different types of wires used in domestic as well as commercial buildings,K2,2
+130,what are the methods used for disinfection of water,K1,2
+131,what is importance of ion exchange method of water treatment?,K1,2
+132,define cathodic protection,K1,2
+133,what are the applications of fuel cells?,K1,2
+134,give applications of terelene,K1,2
+135,give examples for thermosetting polymers,K1,2
+136,what is the composition of LPG,K1,2
+137,define HCV,K1,2
+138,give applications of shape memory materials.,K1,2
+139,define lubricant.,K1,2
+140,"define portable water, give its specifications",K1,1
+141,explain determination of Fion by ion- selective electrode method,K2,2
+142,differentiate internal and external treatment of water.,K4,5
+143,explain reverse osmosis method and its importance.,K2,2
+144,"what are the basic requirements for commercial batteries, explain construction, working principle and applications of Zn-air batteries.",K5,5
+145,what are the causes and effects of corrosion,K2,2
+146,explain Galvanic and pitting corrosion.,K2,2
+147,explain steps involved in free radical polymerization mechanism with suitable example,K2,2
+148,give brief note on Bakelite,K2,2
+149,give brief note on Fibre reinforced plastics and its applications,K2,2
+150,explain properties and applications of synthetic rubbers.,K2,2
+151, compare proximate and ultimate analysis of fuel and give its significance,K5,5
+152,describe Fischer-Tropsch’s process.,K3,2
+153,give brief note on Trans esterification,K2,2
+154,explain various smart materials and their importance,K5,5
+155,explain mechanism of lubrication,K2,2
+156,explain any three important properties of lubricants.,K2,2
+157,"describe in detail the importance of weathering process with reference to Dams, Reservoirs and Tunnels.",K6,10
+158,explain in detail some case studies with reference to the failure of major Civil engineering structures due to geological draw backs.,K5,5
+159,what are the different methods of study of minerals? describe in detail the physical properties of minerals for identification of minerals with examples,K6,10
+160,describe in detail the common structures and Texture of Igneous Rocks.,K6,10
+161,write in detail various types of faults with neat sketches.,K5,5
+162,describe in detail the various investigations required in ground water exploration,K6,10
+163,what do you mean by Geophysics? write in detail the Wenner electrode configuration and Schlumberger electrode configurations for exploration of ground water.,K5,5
+164,what is a dam? explain the various types of Dams with neat sketches,K5,5
+165,give example for an Identifier,K1,2
+166,what is syntax error?,K1,2
+167,what does strstr() function do,K1,2
+168,define Pointer,K1,2
+169,what fseek() function do,K1,2
+170,what is define preprocessor command,K1,2
+171,what is void return type indicate,K1,2
+172,define function signature,K1,2
+173,write Time complexity of Binary search,K1,2
+174,write Time complexity of Insertion sort,K1,2
+175,write pseudo code to find biggest number of a given set.,K3,2
+176,write the syntaxes of While and Do-While loops. explain. differentiate between them,K3,2
+177,write an algorithm to find the roots of a Quadratic equation,K3,2
+178,list out Bitwise operators. explain each one along with their precedence and associativity,K4,4
+179,define an Array. write a C code for Matrix multiplication using arrays.,K3,2
+180,write about Pointer Arithmetic Operations.,K3,2
+181,define Union? write the advantages of Union over Structure? justify your answer?,K2,2
+182,write a C code to find string length?,K3,2
+183,write about various operations that can be performed on files. write various modes of file operations.,K3,2
+184,write a C code to read and print the contents of a file,K3,2
+185,what is the need of Pre-processor commands? explain.,K5,5
+186,write a C code to find the number of characters in a file.,K3,2
+187,what is dynamic memory allocation? why it is required explain,K2,2
+188,write a C code to find Factorial of a given number using Recursion,K3,2
+189,differentiate call by value and call by reference.,K4,4
+190,write a C code to print Fibonacci sequence using recursion.,K3,2
+191,write Linear search algorithm? explain with example,K3,2
+192,write two applications of searching,K3,2
+193,what is sorting? explain Selection sort algorithm with example,K5,5
+194,what is Timecomplexity,K2,2
+195,explain DC load line and Q point for any transistor configuration. Also state the necessity of biasing and list biasing methods for transistor.e,K5,5
+196,explain positive and negative clippers.,K5,5
+197,draw and explain output characteristics of CE configuration.,K5,5
+198,explain with neat figures the function of a half wave rectifier.,K5,5
+199,explain the working of N-channel E-MOSFET,K5,5
+200,"explain about MOSFET CG amplifier and derive the expression for gain, input impedance output impedance",K5,5
+201,Explain analog modulation and describe its various types,K1,2
+202,A transmitter radiates 10 KW with a carrier power of 8.5 KW. Find the modulation index,K3,2
+203,Explain carrier swing and frequency deviation,K1,2
+204,Differentiate between narrowband and wideband frequency modulation.,K4,4
+205,What does the threshold effect refer to?,K2,2
+206,Describe the process of image frequency rejection in a radio receiver.,K2,2
+207,Can you describe the bandwidth needed for a PCM system?,K2,2
+208,Differentiate between Pulse Amplitude Modulation and Pulse Width Modulation,K4,4
+209,Explain the condition for orthogonality in two Binary Frequency Shift Keying systems,K5,5
+210,Analyze the average power requirement of Quadrature Phase Shift Keying versus Binary Phase Shift Keying.,K4,4
+211,Explain how Amplitude Modulation is generated using a square law modulator and derive the relevant equations.,K6,10
+212,"Using a circuit diagram and waveforms, describe the generation of DSB-SC wave with a balanced modulator.",K5,5
+213,Explain how frequency modulation is generated using the direct method.,K5,5
+214,"Given an FM wave with modulation index β = 1, transmitted through an ideal band pass filter with mid-band frequency fc and bandwidth of 5fm, determine the amplitude spectrum",K3,2
+215,Explain how an FM wave is detected using a zero crossing detector.,K3,2
+216,What is the concept of pre-emphasis and de-emphasis in communication systems?,K2,2
+217,Draw a block diagram of an AM transmitter using low-level modulation and explain the function of each block,K5,5
+218,Analyze the frequency stability in an FM transmitter.,K4,4
+219,Compare the advantages and disadvantages of a Tuned Radio Frequency receiver,K4,4
+220,Explain the concept of quantization error and derive the expression for the maximum Signal-to-Noise Ratio (SNR) in a PCM system using linear quantization,K5,5
+221,List and describe the components that make up a typical AM receiver.,K1,2
+222,Explain how frequency modulation is implemented in communication systems.,K2,2
+223,Describe how pulse code modulation works and its practical applications.,K3,2
+224,Explain how noise impacts the performance of a frequency modulation system.,K3,2
+225,State Carson’s Rule and explain its importance in FM modulation.,K1,2
+226,Describe the role of bandwidth in various communication systems.,K2,2
+227,Analyze the benefits of using frequency modulation compared to amplitude modulation.,K4,4
+228,Calculate the modulation index for an AM signal and discuss its relationship with the power of the signal.,K3,2
+229,Define carrier power in the context of an Amplitude Modulation system.,K1,2
+230,"""List and describe the various types of frequency modulation techniques used in modern communication.",K2,2
+231,Explain how demodulation occurs in a communication system,K3,2
+232,"Compare the benefits and drawbacks of AM, FM, and PM modulation schemes.",K4,4
+233,Differentiate between Phase Modulation and Frequency Modulation.,K4,4
+234,Explain the role and purpose of a mixer in a communication system receiver.,K1,2
+235,Describe how a communication system handles harmonic distortion in amplitude modulation.,K3,2
+236,Analyze the factors that determine the bandwidth requirement in a digital communication system.,K4,4
+237,Define Nyquist rate and explain why it is critical in digital communication systems.,K2,2
+238,State and explain the importance of the Shannon-Hartley theorem in communication systems,K2,2
+239,Derive the mathematical expression for the bandwidth of a Frequency Modulated signal.,K6,10
+240,List and explain the various applications of Frequency Modulation in communication systems.,K3,2
+241,Explain how Phase Modulated signals are generated and detected in communication systems,K3,2
+242,Differentiate between a homodyne receiver and a superheterodyne receiver in terms of architecture and performance.,K4,4
+243,Describe how Quadrature Amplitude Modulation (QAM) systems function in communication.,K2,2
+244,Analyze the trade-off between data rate and error rate in digital communication systems and how it affects performance.,K5,5
+245,Compare and contrast baseband and passband transmission in digital communication,K2,2
+246,Analyze the impact of phase jitter on the signal quality in digital modulation schemes.,K4,4
+247,Explain inter-symbol interference (ISI) and its impact on signal transmission in communication systems.,K2,2
+248,Describe how Frequency Division Multiplexing (FDM) enhances the efficiency of communication systems.,K3,2
+249,"Explain how the 'line of sight' concept affects wireless communication systems and signal propagation.""",K2,2
+250,Define Bit Error Rate (BER) and explain its significance in digital communication.,K1,2
+251,Define syntax error.,K1,2
+252,Write the time complexity of Binary Search.,K2,2
+253,Differentiate between call by value and call by reference.,K2,2
+254,Write an algorithm to find the roots of a quadratic equation.,K3,2
+255,What is the purpose of the define preprocessor command in C?,K1,2
+256,Write a C code to find factorial using recursion.,K3,2
+257,Explain dynamic memory allocation and why it is required.,K2,2
+258,Write pseudo code to find the biggest number of a given set.,K3,2
+259,Explain the need for preprocessor commands.,K2,2
+260,Write a C code to find the number of characters in a file.,K3,2
+261,Define the energy consumed by a 1000 watts heater in 3 hours.,K1,2
+262,"Explain the V-I relation of R, L, and C elements.",K2,2
+263,Derive an expression for the resonance frequency of an R-L-C series circuit.,K3,2
+264,Explain the working of a 3-phase Induction motor with a neat sketch.,K3,2
+265,What are the advantages of a 3-phase transformer? Draw various schemes of 3-phase transformer connections.,K2,2
+2662,Derive the expression for the power output and conversion efficiency of a Class A series-fed amplifier.,K4,4
+267,Explain the operation of a class B power amplifier.,K2,2
+268,What are the differences between primary cells and secondary batteries?,K1,2
+269,What is a step-up transformer and how does it work?,K2,2
+270,What is the full form of MCCB?,K1,2
+271,Explain the importance of petrology in civil engineering.,K2,2
+272,Define diffusion and transition capacitance of p-n junction diode.,K1,2
+273,What are the advantages of direct-coupled amplifiers?,K2,2
+274,Write the equation for the frequency of oscillations in an RC phase-shift oscillator.,K3,2
+275,What are the applications of Operational Amplifiers (Op-Amps)?,K1,2
+276,Derive the expression for ripple factor for a full-wave rectifier.,K4,4
+277,What is harmonics distortion in a power amplifier?,K2,2
+278,What are the advantages and disadvantages of negative feedback in amplifiers?,K2,2
+279,Explain the working of a Colpitt’s oscillator and discuss its drawbacks.,K3,2
+280,Define CMRR and explain its significance.,K1,2
+281,Define analog modulation and list the different types of analog modulations.,K1,2
+282,Calculate the modulation index for an AM wave transmitted with a carrier power of 8.5 KW and total power of 10 KW.,K3,2
+283,Explain carrier swing and frequency deviation in communication systems.,K2,2
+284,Compare narrowband and wideband FM.,K2,2
+285,Discuss the detection of FM waves using a zero crossing detector.,K3,2
+286,What is the bandwidth requirement of a PCM system?,K1,2
+287,Explain how a frequency modulated signal is detected using a PLL.,K3,2
+288,What is the threshold effect in communication systems?,K2,2
+289,Describe the generation of an FM wave using the direct method.,K2,2
+290,Explain how frequency modulation and phase modulation differ in terms of their implementation.,K2,2
+291,Explain the importance of geology in civil engineering.,K2,2
+292,What are the main objectives of geological investigations for most engineering projects?,K1,2
+293,Explain frost action in weathering and its effects on rock formation.,K2,2
+294,Describe the physical properties of common rock-forming minerals.,K1,2
+295,What do you mean by a dam disaster?,K2,2
+296,Explain briefly the causes and effects of earthquakes.,K2,2
+297,Discuss the factors contributing to the success of a reservoir.,K3,2
+298,Explain the types of dams and their classification based on geological factors.,K2,2
+299,Describe the process of erosion by glaciers and the associated landforms.,K2,2
+300,What is the significance of groundwater exploration in civil engineering?,K1,2
+301,Define algorithm and explain the difference between an algorithm and a flowchart,K1,2
+302,Write a program to check whether a given number is prime or not,K2,2
+303,Explain the working of the Merge Sort algorithm with an example.,K2,2
+304,What is dynamic memory allocation? How does malloc() work in C?,K3,2
+305,Demonstrate the use of function pointers with an example in C.,K3,2
+306,Implement a binary search algorithm in a sorted array using recursion.,K4,4
+307,Compare the time complexity of Quick Sort and Merge Sort.,K4,4
+308,Analyze the performance of the Dijkstra’s algorithm for finding the shortest path in a graph.,K5,5
+309,Design an algorithm to detect a cycle in a directed graph,K5,5
+310,Develop a C program that implements a graph using adjacency lists and performs depth-first search (DFS).,K6,10
+311,Define a linked list and explain the different types of linked lists.,K1,2
+312,Write a C program to reverse a singly linked list.,K2,2
+313,Explain the concept of binary trees and the different types of traversal.,K2,2
+314,Implement an insertion operation in a binary search tree (BST).,K3,2
+315,Describe the concept of hashing. Implement a basic hash table in C.,K3,2
+316,Write an algorithm to find the longest common subsequence (LCS) between two strings.,K4,4
+317,Explain the concept of memory management and describe how garbage collection works in Java.,K4,4
+318,Propose a solution for finding the shortest path between two nodes in a weighted graph using A* algorithm.,K5,5
+319,Implement a page replacement algorithm (like FIFO or LRU) in C.,K5,5
+320,Design a system for managing user authentication and authorization using a token-based approach.,K6,10
+321,Define work and power in the context of thermodynamics.,K1,2
+322,Explain the laws of thermodynamics with examples.,K2,2
+323,Describe the working principle of a four-stroke internal combustion engine.,K2,2
+324,Calculate the efficiency of a Carnot engine.,K3,2
+325,Explain the difference between a heat pump and a refrigerator.,K3,2
+326,Compare the performance of a steam engine with that of a gas turbine.,K4,4
+327,Derive the equation for work done in a polytropic process.,K4,4
+328,Analyze the effect of superheating on the efficiency of Rankine cycle.,K5,5
+329,Design a heat exchanger for a given application with required specifications.,K5,5
+330,Simulate the functioning of a steam turbine using the Mollier diagram,K6,10
+331,Define stress and strain in materials and explain the types of stresses.,K1,2
+332,Explain the concept of elasticity and Hooke’s law.,K2,2
+333,Derive the relationship between bending moment and shear force in a beam.,K2,2
+334,Analyze the behavior of a cantilever beam under different loading conditions.,K3,2
+335,Calculate the natural frequency of a spring-mass system.,K3,2
+336,Explain the working of a centrifugal pump and its performance curves.,K4,4
+337,Derive the equation of motion for a rotating body with respect to angular velocity.,K4,4
+338,Design a gear system to transmit power with a given efficiency.,K5,5
+339,Analyze the thermal stresses in a composite material.,K5,5
+340,Create a Finite Element Model (FEM) for a pressure vessel subjected to internal pressure.,K6,10
+341,Define Ohm’s Law and explain its importance in electrical circuits.,K1,2
+342,Write the expression for the power factor of an AC circuit and explain how it is calculated.,K2,2
+343,Explain the principle of operation of a transformer.,K2,2
+344,Calculate the total resistance in a series-parallel combination of resistors.,K3,2
+345,Derive the expression for the impedance of a series LC circuit.,K3,2
+346,Explain the working principle of a three-phase induction motor.,K4,4
+347,Derive the equation for the output power of a transformer.,K4,4
+348,Analyze the performance of a bridge rectifier with a capacitive filter.,K5,5
+349,Design a feedback amplifier and analyze its stability using Nyquist criteria.,K5,5
+350,Develop a MATLAB model for a sinusoidal AC signal with varying frequency.,K6,10
+351,Define electric current and explain its types.,K1,2
+352,Discuss the difference between series and parallel resonance in RLC circuits,K2,2
+353,Explain the working principle of a diode and list its types.,K2,2
+354,Calculate the efficiency of an electrical machine under different load conditions.,K3,2
+355,Analyze the frequency response of a band-pass filter.,K3,2
+356,Describe the operation of a synchronous motor and its applications.,K4,4
+357,Calculate the time constant of an RL circuit.,K4,4
+358,Design a digital filter for noise reduction in electrical circuits.,K5,5
+359,Evaluate the performance of an operational amplifier in an inverting configuration,K5,5
+360,Simulate a power system with load flow analysis using MATLAB.,K6,10
+361,Define modulation and explain the different types of modulation.,K1,2
+362,Write the equation for Amplitude Modulation (AM) and explain the concept of modulation index.,K2,2
+363,Explain the working of a diode detector in AM radio receivers,K2,2
+364,Derive the expression for the frequency spectrum of an FM wave.,K3,2
+365,Calculate the modulation index for a given FM signal.,K3,2
+366,Explain the process of generating a Single Sideband (SSB) signal.,K4,4
+367,Describe the operation of a Frequency Modulation (FM) demodulator using a phase-locked loop (PLL).,K4,4
+368,Design a communication system that uses Pulse Code Modulation (PCM) for data transmission.,K5,5
+369,Analyze the performance of a communication system under noise conditions.,K5,5
+370,Develop a digital filter for demodulation of noisy FM signals.,K6,10
+371,Define bandwidth and explain how it relates to the capacity of a communication system.,K1,2
+372,Write a short note on frequency division multiplexing (FDM) and time division multiplexing (TDM).,K2,2
+373,Explain the role of a mixer in an FM receiver.,K2,2
+374,Discuss the different types of antennas used in communication systems.,K3,2
+375,Calculate the bandwidth requirement for an amplitude modulated signal.,K3,2
+376,Explain the concept of carrier swing in frequency modulation.,K4,4
+377,Derive the relationship between power and frequency modulation in AM transmission.,K4,4
+378,Design an FM transmitter and calculate its efficiency.,K5,5
+379,Evaluate the impact of noise on the performance of an AM signal.,K5,5
+380,Simulate an AM modulation system and analyze its output waveform.,K6,10
+381,Define the bearing capacity of soils and explain its importance in foundation design.,K1,2
+382,Describe the different types of rocks and their uses in civil engineering.,K2,2
+383,Explain the process of soil compaction and its effect on soil strength.,K2,2
+384,Calculate the load-bearing capacity of a shallow foundation.,K3,2
+385,Explain the effect of different weathering processes on soil properties.,K3,2
+386,Design a simple retaining wall for a given loading condition.,K4,4
+387,Discuss the process of dam construction and the factors affecting the selection of a dam site.,K4,4
+388,Analyze the structural behavior of a multi-story building subjected to seismic forces.,K5,5
+389,Design a water treatment plant with the necessary filtration units.,K5,5
+390,Perform a finite element analysis of a bridge under dynamic loading.,K6,10
+391,Define the concept of slope stability and its role in civil engineering design.,K1,2
+392,Discuss the different types of foundations used in civil engineering.,K2,2
+393,Explain the significance of geotechnical investigations in construction projects.,K2,2
+394,Calculate the maximum allowable deflection in a simply supported beam.,K3,2
+395,Explain the process of soil testing and its role in the design of foundations.,K3,2
+396,Design a drainage system for a given area based on rainfall data.,K4,4
+397,Explain the different types of construction materials used in building roads and bridges.,K4,4
+398,Analyze the performance of a concrete structure under various load conditions,K5,5
+399,Design a flood control system for a river basin.,K5,5
+400,Simulate the effect of earthquake forces on a high-rise building structure.,K6,10
+401,What are the four primary states of matter?,K1,
+402,Can you list the main events of the American Civil War?,K1,
+403,Who developed the theory of relativity?,K1,
+404,Define photosynthesis.,K1,
+405,What is the capital of France?,K1,
+406,Name the three branches of the U.S. government.,K1,
+407,Recall the formula for calculating the area of a circle.,K1,
+408,Identify the author of '1984.',K1,
+409,What is the chemical symbol for gold?,K1,
+410,List the planets in our solar system.,K1,
+411,Who was the first president of the United States?,K1,
+412,State Newton's third law of motion.,K1,
+413,What is the boiling point of water in Celsius?,K1,
+414,Name the largest ocean on Earth.,K1,
+415,Who painted the Mona Lisa?,K1,
+416,What is the powerhouse of the cell?,K1,
+417,Define the term 'democracy.',K1,
+418,What is the longest river in the world?,K1,
+419,Who wrote 'Romeo and Juliet'?,K1,
+420,Identify the process by which plants make their food.,K1,
+421,What is the freezing point of water in Fahrenheit?,K1,
+422,Name the inventor of the light bulb.,K1,
+423,What is the largest planet in our solar system?,K1,
+424,How would you use the Pythagorean theorem to determine the length of the hypotenuse in a right-angled triangle?,K3,
+425,Demonstrate how to balance the chemical equation for the combustion of methane.,K3,
+426,Apply Newton's second law to calculate the force acting on an object with a mass of 5 kg accelerating at 2 m/s².,K3,
+427,How would you implement a binary search algorithm in a given dataset?,K3,
+428,Use Ohm's law to determine the resistance in a circuit with a voltage of 10V and a current of 2A.,K3,
+429,Illustrate the process of mitosis by creating a series of diagrams.,K3,
+430,Solve the quadratic equation x² - 5x + 6 = 0.,K3,
+431,How would you convert 100 degrees Fahrenheit to Celsius?,K3,
+432,"Develop a budget plan for a small business with a monthly revenue of $10,000.",K3,
+433,Construct a timeline of major events in World War II.,K3,
+434,How would you use the scientific method to investigate the effect of sunlight on plant growth?,K3,
+435,Implement a function in Python to sort a list of numbers in ascending order.,K3,
+436,Compare and contrast the political systems of the United States and the United Kingdom.,K4,
+437,Analyze the factors leading to the decline of the Roman Empire.,K4,
+438,Examine the relationship between supply and demand in determining market prices.,K4,
+439,Design an experiment to test the effects of different fertilizers on plant growth.,K6,
+440,Compose a short story that incorporates elements of mystery and science fiction.,K6,
+441,Develop a marketing strategy for a new eco-friendly product.,K6,
+442,Create a mobile application that helps users track their daily water intake.,K6,
+443,Formulate a thesis statement and outline for an essay on the impact of social media on society.,K6,
+444,Invent a device that can assist visually impaired individuals in navigating public spaces.,K6,
+445,Generate a business plan for a startup company offering online education services.,K6,
+446,Compose a poem that reflects the theme of resilience.,K6,
+447,Design a sustainable city layout that minimizes environmental impact.,K6,
+448,Develop a lesson plan to teach high school students about renewable energy sources.,K6,
+449,Create a board game that educates players about world geography.,K6,
+450,Propose a solution to reduce traffic congestion in urban areas.,K6,
+451,Write a song that promotes mental health awareness.,K6,
+452,Design a website for a non-profit organization focused on animal welfare.,K6,
+453,Develop a workout plan tailored for individuals with busy schedules.,K6,
+454,Create a short film script that addresses the issue of climate change.,K6,
+455,Formulate a recipe that accommodates common food allergies.,K6,
